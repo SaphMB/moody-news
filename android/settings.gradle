@@ -1,0 +1,3 @@
+rootProject.name = 'moody_news'
+
+include ':app'
